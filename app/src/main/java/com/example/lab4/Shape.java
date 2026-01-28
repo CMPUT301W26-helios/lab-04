@@ -1,7 +1,7 @@
 package com.example.lab4;
 
-public abstract Shape {
+public abstract class Shape {
     public int x;
     public int y;
-    String color = "Green";
+    String color = "octarine"; //the colour of magic!
 }
