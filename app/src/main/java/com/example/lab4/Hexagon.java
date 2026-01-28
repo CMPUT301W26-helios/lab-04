@@ -1,4 +1,6 @@
 package com.example.lab4;
 
-public class Hexagon {
+import android.graphics.drawable.shapes.Shape;
+
+public class Hexagon extends Shape {
 }
